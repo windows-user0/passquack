@@ -1,0 +1,31 @@
+{
+    "name": "passquack",
+    "version": "1.0.1",
+    "description": "Package that returns password strength in entropy bits or user friendly string",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/windows-user0/passquack.git"
+    },
+    "keywords": [
+        "password",
+        "strength",
+        "password",
+        "validation",
+        "password",
+        "validation",
+        "entropy"
+    ],
+    "author": "windows-user0",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/windows-user0/passquack/issues"
+    },
+    "homepage": "https://bestest.tech/passquack",
+    "devDependencies": {
+        "jest": "^26.1.0"
+    }
+}
